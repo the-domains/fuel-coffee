@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Fuel Coffee]]></title>
         <description><![CDATA[Fuel Coffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fuel-coffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 23:05:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 23:16:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fuel-coffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When your outfit and your dog match 🙌🏻💕 Photo of @caitlin_davis #womenandcoffee]]></title>
+            <description><![CDATA[<article><h1>When your outfit and your dog match 🙌🏻💕 Photo of @caitlin_davis #womenandcoffee</h1><img src="https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/12558400_879498602168212_2143162405_n.jpg?ig_cache_key=MTE3MjMyMDA4OTc1Mjc4ODMyNQ%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BBE6ukQxN1l/</link>
+            <guid isPermaLink="false">7207e8aa-86e0-4034-9093-bf719e774bba</guid>
+            <pubDate>Fri, 04 Mar 2016 23:14:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="WorcestershireHour lots of events booked but always looking for more give us a try people love our van &amp; coffee" src="https://pbs.twimg.com/media/Cb2JZ8gW8AAQaqp.jpg:large">]]></description>
