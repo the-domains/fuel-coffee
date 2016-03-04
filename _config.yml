@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D8A8A8'
+    - '#981818'
+    - '#A05050'
+    - '#C02028'
+    - '#E09090'
+  brandStrength: 0.552632
+  lightness: 0.743698
+  rhythmicContrast: 0.530428
+  saturation: 0.544974
+cta: {}
+layout_spectrum: 0.685033
+name: Fuel Coffee
+opengraph: {}
+purpose: {}
+typography_spectrum: 0
