@@ -1,4 +1,19 @@
-analytics: {}
+name: Fuel Coffee
+favicon: null
+layout_spectrum: 0.62576
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +23,9 @@ color:
     - '#E8E0B8'
   brandStrength: 0.552632
   lightness: 0.743698
-  rhythmicContrast: 0.530428
   saturation: 0.544974
-cta: {}
-layout_spectrum: 0.685033
-name: Fuel Coffee
-opengraph: {}
-purpose: {}
-typography_spectrum: 0
+  rhythmicContrast: 0.530428
+purpose:
+  - name: null
+    item: null
+    url: null
