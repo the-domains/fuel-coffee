@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BBE6ukQxN1l/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-05T09:43:38.128Z'
+dateModified: '2016-03-05T09:43:31.367Z'
 author:
   - name: womenandcoffee
     url: 'https://www.instagram.com/womenandcoffee'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1172320089752788325'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BBE6ukQxN1l/'
 title: "When your outfit and your dog match \uD83D\uDE4C\uD83C\uDFFB\uD83D\uDC95 Photo of @caitlin_davis #womenandcoffee"
-datePublished: '2016-03-04T23:14:43.832Z'
-dateModified: '2016-03-04T23:14:17.740Z'
 sourcePath: _posts/2016-03-04-when-your-outfit-and-your-dog-match-photo-of-caitlin.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
